@@ -1,0 +1,176 @@
+{
+  "pageProps": {
+    "data": {
+      "allWorks": [
+        {
+        	"title": "Rapi UI",
+        	"slug": "rapi-ui",
+        	"id": "25323921",
+        	"excerpt": "Beautiful & clean components for your react native apps",
+        	"date": "2021-03-20",
+        	"categories": "React native, UI Library, Components library",
+        	"content": "<p>Rapi UI is a UI components library for react native. The design is beautiful and clean, I personally use this type of design in my projects so why not I pack these components to a npm packages so everyone can use.</p>\n",
+          "image": {"url":"https://www.datocms-assets.com/35386/1616337549-hero.png"},
+          "deployment": "Web: https://rapi-ui.kikiding.space/, Github: https://github.com/codingki/react-native-rapi-ui",
+          "technologyUsed": "React native, typescript"
+        },
+        {
+          "title": "Kawalcovid19.id Vaccine rubric",
+          "slug": "kawalcovid19-id-vaccine-rubric",
+          "id": "21021025",
+          "excerpt": "I'm contributing to kawalcovid19.id. After I release menujuherdimmunity.id Kawal COVID-19 team invite me to collaborate on building their vaccinate rubric.",
+          "date": "2021-02-16",
+          "categories": "Web",
+          "content": "<p>I'm contributing to kawalcovid19.id. After I release menujuherdimmunity.id Kawal COVID-19 team invite me to collaborate on building their vaccinate rubric.</p>\n<p>I design, code and connecting the APIs the vaccine rubric for kawalcovid19.id.\nalso vaccine widget on the home page</p>\n",
+          "image": {"url":"https://www.datocms-assets.com/35386/1613492121-euv9t9fucamltlf.jpeg"},
+          "deployment": "Web: https://kawalcovid19.id/vaksin",
+          "technologyUsed": "React, Next"
+        },
+        {
+          "title": "React Native Animated Touchable Component",
+          "slug": "react-native-animated-touchable-component",
+          "id": "21020865",
+          "excerpt": "React Native Touchable Component with Custom Animations",
+          "date": "2021-02-09",
+          "categories": "component, npm package",
+          "content": "<p>Created a animated touchable component using @FernandoTheRojo's Moti\nDocumentation <a href=\"https://github.com/codingki/react-native-touchable-moti\">here</a></p>\n",
+          "image": {"url":"https://www.datocms-assets.com/35386/1613543241-ezgif-2-92d88ce57b54.gif"},
+          "deployment": "github: https://github.com/codingki/react-native-touchable-moti, example: https://github.com/codingki/react-native-touchable-moti",
+          "technologyUsed": "React Native, Moti, Expo"
+        },
+        {
+        	"title": "Menuju Herd Immunity",
+        	"slug": "menuju-herd-immunity",
+        	"id": "18728286",
+        	"excerpt": "Calculation of how far Indonesia goes to \"Herd Immunity\"",
+        	"date": "2021-02-03",
+      		"categories": "Website",
+          "content": "<p>Calculation of how far Indonesia goes to \"Herd Immunity\"\nThe calculation is taken from (total recovered people + number of people who have been vaccinated / vaccinated targets) X 100%</p>\n",
+          "image": {"url":"https://www.datocms-assets.com/35386/1612314433-image.png"},
+          "deployment": "web: https://menujuherdimmunity.id/, github: https://github.com/codingki/menuju-herd-immunity",
+          "technologyUsed": "Next.js, React, Tailwindcss, Express"
+      	},
+        {
+          "title": "React native Expo starter templates",
+          "slug": "react-native-expo-starter-templates",
+          "id": "18445653",
+          "excerpt": "These are my starter templates or my way for building mobile app with react native and expo.",
+          "date": "2021-01-21",
+          "categories": "Starter Templates",
+          "content": "<p>These are my starter templates or my way for building mobile app with react native and expo. I'm tired everytime I create a new project from blank, so I decided to make a starter templates, feel free to use it 🥳\nBonus Snap Midtrans payment gateway😘</p>\n",
+          "image": {"url":"https://www.datocms-assets.com/35386/1612055706-authflow.png"},
+          "deployment": "github: https://github.com/codingki/react-native-expo-template",
+          "technologyUsed": "React Native, Expo, Firebase, Supabase, Midtrans"
+        },
+        {
+        	"title": "Sundareka Dashboard Redesign",
+    			"slug": "sundareka-dashboard-redesign",
+      		"id": "18445654",
+      		"excerpt": "Redesigning Sundareka Dashboard",
+      		"date": "2021-01-15",
+      		"categories": "UI & UX, Redesign",
+          "content": "<p>Before :</p>\n<p><img src=\"https://www.datocms-assets.com/35386/1612055890-image-1.png\" alt=\"Sundareka Dashboard Before\"></p>\n",
+          "image": {"url":"https://www.datocms-assets.com/35386/1612055826-redesignsundareka.png"},
+          "deployment": "",
+          "technologyUsed": "Figma"
+      	},
+        {
+          "title": "Customer Satisfaction Index for PKB Ujung Menteng",
+          "slug": "customer-satisfaction-index-for-pkb-ujung-menteng",
+          "id": "18445650",
+          "excerpt": "Calculate the operation time and get the Customer satisfaction index value",
+          "date": "2020-10-20",
+          "categories": "Mobile App",
+          "content": "<p>This app is a survey for the visitors of PKB Ujung Menteng to calculate the operation time and get the customer satisfaction index value.</p>\n",
+          "image": {"url":"https://www.datocms-assets.com/35386/1612055172-el4-zggo-u8-aaii-zt.jpg"},
+          "deployment": "",
+          "technologyUsed": "React Native, Expo, Firebase"
+        },
+        {
+        	"title": "TikTeng",
+      		"slug": "tikteng",
+      		"id": "18445789",
+      		"excerpt": "BNCC Technoscape x tiket.com Hackathon submission for Maradota Team (TikTeng)",
+      		"date": "2020-10-17",
+      		"categories": "Hackathon, Mobile App",
+          "content": "<p>BNCC Technoscape x tiket.com Hackathon submission for Maradota Team (TikTeng)\n🥈 2nd place 🥳</p>\n<p>An online concert ticket sales platform that can be purchased sepeately (ketengan)</p>\n",
+          "image": {"url":"https://www.datocms-assets.com/35386/1612056042-thumbnail.png"},
+          "deployment": "expo: https://expo.io/@kidingki/projects/tikteng, github: https://github.com/codingki/TikTeng",
+          "technologyUsed": "React Native, Expo"
+      	},
+        {
+          "title": "Sehat Negeriku Redesign & Rebuild",
+          "slug": "sehat-negeriku-redesign-rebuild",
+          "id": "18443437",
+          "excerpt": "Sehat Negeriku is a portal news app from Kemenkes Indonesia, This is unofficial Redesign & Rebuild project by me.",
+          "date": "2020-08-01",
+          "categories": "Redesign",
+          "content": "<p>Sehat Negeriku is a portal news app from Kemenkes Indonesia, This is unofficial Redesign &#x26; Rebuild project by me.</p>\n",
+          "image": {"url":"https://www.datocms-assets.com/35386/1611984631-thumbnail.jpg"},
+          "deployment": "github: https://github.com/codingki/sehatnegeriku, android: https://play.google.com/store/apps/details?id=com.kikiding.sehatnegerikurebuild, expo: https://expo.io/@kidingki/projects/sehatnegeriku",
+          "technologyUsed": "React Native, Expo, Graphql"
+        },
+        {
+        	"title": "Color Sense",
+      		"slug": "color-sense",
+      		"id": "18445646",
+      		"excerpt": "Color sense is a game that will test your color sensitivity.",
+      		"date": "2020-06-10",
+      		"categories": "Game",
+          "content": "<p>This game I made to learn animations on react native</p>\n",
+          "image": {"url":"https://www.datocms-assets.com/35386/1612054620-feature.png"},
+          "deployment": "web: https://color-sense.kikiding.space/, android: https://play.google.com/store/apps/details?id=com.essence.colorsense, expo: https://expo.io/@kidingki/projects/sehatnegeriku",
+          "technologyUsed": "React native, Expo"
+      	},
+        {
+          "title": "Transforming Comika.id website to a mobile app",
+          "slug": "transforming-comika-id-website-to-a-mobile-app",
+          "id": "18445647",
+          "excerpt": "Sharpening my UI and Frontend developing skills on React Native by transforming Comika.id website to a mobile app using expo ❤️ + React Navigation 🔥.",
+          "date": "2020-05-01",
+          "categories": "Mobile App, UI & UX",
+          "content": "<p>For those who don’t know Comika.id is a platform to buy a digital download of a indonesian standup comedy shows.</p>\n<p>I want to sharpening my UI and Frontend developing skills so I trying to transforming the website to a mobile app from scratch.\nThis is just me exploring my creativity.</p>\n",
+          "image": {"url":"https://www.datocms-assets.com/35386/1612055789-comika-19.png"},
+          "deployment": "Medium: https://medium.com/@kikidding/transforming-comika-id-website-to-a-mobile-app-619c20052764, Expo: https://expo.io/@kidingki/projects/comika",
+          "technologyUsed": "React native, Expo, Figma"
+        },
+        {
+          "title": "Instagram Stories Clone with React native + Expo",
+          "slug": "instagram-stories-clone-with-react-native-expo",
+          "id": "18445651",
+          "excerpt": "After experimenting with expo-av api, Video component and react-native Animations, I found my way to clone the instagram stories.",
+          "date": "2020-01-02",
+          "categories": "Experiment, Animations",
+          "content": "<p>After experimenting with expo-av api, Video component and react-native Animations, I found my way to clone the instagram stories.</p>\n",
+          "image": {"url":"https://www.datocms-assets.com/35386/1612055368-capture-1.png"},
+          "deployment": "expo: https://expo.io/@kidingki/projects/instagramstoryclone, medium: https://medium.com/@kikidding/instagram-stories-clone-with-react-native-expo-e68683c9faaa",
+          "technologyUsed": "React Native, Expo"
+        },
+        {
+        	"title": "Enchante.id",
+      		"slug": "enchante-id",
+      		"id": "18445648",
+      		"excerpt": "Enchante is a Local fashion brand that provides your daily minimalist style",
+      		"date": "2019-12-20",
+      		"categories": "Online Store, Website",
+          "content": "<p>This goal of this project is to make an online store for this brand and intregrate with midtrans payment gateway</p>\n",
+          "image": {"url":"https://www.datocms-assets.com/35386/1612054996-9.jpg"},
+          "deployment": "web: https://enchante.id",
+          "technologyUsed": "Wordpress, Woocommerce, Midtrans"
+      	},
+        {
+          "title": "Lockdown Chat",
+          "slug": "lockdown-chat",
+          "id": "18445652",
+          "excerpt": "Chatting with other people in your city, in your country, even with other people in the world.",
+          "date": "2019-08-20",
+          "categories": "Mobile App, Chating App",
+          "content": "<p>This app is I made when I'm bored and want to make something, and I got this idea \"How about we can chat with each other in my city or my country.</p>\n",
+          "image": {"url":"https://www.datocms-assets.com/35386/1612055507-lockdownchat-07.png"},
+          "deployment": "android: https://play.google.com/store/apps/details?id=com.essence.lockdownchat, Expo: https://expo.io/@kidingki/projects/lockdownchat",
+          "technologyUsed": "React Native, Expo"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "pageProps": {
+    "data": {
+      "allBlogs": [
+        {
+          "title": "Wanna see Rapi UI in action?",
+          "id": "25857309",
+          "excerpt": "Now all the UI components on my react native expo template uses Rapi UI",
+          "categories": "UI Components",
+          "date": "2021-03-24",
+          "slug": "rapi-ui-in-action",
+          "content": "<p>Now all the UI components on my react native expo template uses Rapi UI, check this out https://github.com/codingki/react-native-expo-template</p>\n",
+          "image": null
+        },
+        {
+          "title": "My \"Sehat negeriku\" app is not working anymore",
+          "id": "19386489",
+          "excerpt": "Remember Sehat Negeriku Redesign and Rebuild? ",
+          "categories": "App",
+          "date": "2021-02-07",
+          "slug": "my-sehat-negeriku-app-is-not-working-anymore",
+          "content": "<p>Remember this? <a href=\"https://twitter.com/kikiding/status/1302211106958573568\">https://twitter.com/kikiding/status/1302211106958573568</a> now is not working anymore because they updated the api so I can't acces it anymore. When I try to get their API endpoint again using \"Packet Tracer\" I can't access the API, I think they add more security so it can't be access outside the app.</p>\n<p>I feel good when I open their app, because they update the app the layout, the design now is better now. I think my job is done 😆</p>\n",
+          "image": null
+        },
+        {
+          "title": "Rewriting my site with Next and Tailwind",
+          "id": "18446883",
+          "excerpt": "Why I rewrite my site",
+          "categories": "Tech Stack",
+          "date": "2021-01-31",
+          "slug": "rewriting-my-site-with-next-and-tailwind",
+          "content": "<p>My last version of this site is built with Expo + Next, I got some issues with the responsive capablities. I know building website with Expo is not the best option, I just experimenting back then. I really want to try tailwindcss from a long time, because the hype of this css framework is big its making me curios of this framework.</p>\n<p>Recently I was not busy so I decided to try tailwindcss, and it was magical. Last time I use a css framework is many years ago (I was using Bootstrap at that time). I didn't know any utilty first css framework until I try tailwind.</p>\n<p>I use DatoCMS for the CMS of my site, combining it with Next.js is just smooth, I love seeing my lighthouse score now haha.</p>\n<p>Last year I attended a virtual talk with Surabaya.JS, Griko Nibras was talking about dynamic social image for website, I was having trouble about this topic. I was lucky enough to attend this because I really want to know how to do this, and now I implementing it on my site. If you interested in this topic check this out: <a href=\"https://github.com/nextplate-dev/nextplate\">https://github.com/nextplate-dev/nextplate</a></p>\n",
+          "image": null
+        },
+        {
+          "title": "React Native + Expo Starter Templates",
+          "id": "18443436",
+          "excerpt": "I'm tired every time I create a new project from blank, so I decided to make my own starter templates, if you use React native and Expo to build apps feel free to use it!",
+          "categories": "App Development",
+          "date": "2020-10-27",
+          "slug": "react-native-expo-starter-templates",
+          "content": "<p>I'm tired every time I create a new project from blank, so I decided to make my own starter templates, if you use React native and Expo to build apps feel free to use it!</p>\n<p>Bonus Snap Midtrans payment gateway example on client side😘</p>\n<p>Source code : <a href=\"https://https://github.com/codingki/react-native-expo-template\">https://github.com/codingki/react-native-expo-template</a></p>\n<p>Documented with a readme and I hope beginner friendly</p>\n",
+          "image": {"url":"https://www.datocms-assets.com/35386/1611984418-thumbnail-02.jpg"}
+        },
+        {
+          "title": "First Hackathon Second Place",
+          "id": "18443435",
+          "excerpt": "I want to share a litle experience participating on BNCC Technoscape x tiket.com",
+          "categories": "Hackathon",
+          "date": "2020-10-17",
+          "slug": "first-hackathon-second-place",
+          "content": "<p>I want to share a litle experience participating on BNCC Technoscape x tiket.com Hackathon, this event held online.</p>\n<p>This was a competition build an application in 48 hours, I was given a case and then given 48 hours to make the solution. There are 2 cases given:</p>\n<p>1.Enjoy online concerts during a pandemic\n2. IT Security We take the first case.</p>\n<p>I teamed up with Ocky. My communication is not very good luckily Ocky is a Communication students so I decided to bring him to the team to help me with presentation and brainstorming, btw we lived in the same house.</p>\n<p>We have an idea, what if online ticket concert can be bought seperately(ketengan) so the audience can watch it seperately with a different rundown in one festival/online concert, because in online concert case this is possible.</p>\n<p>So we decided to take that idea to development and going through some mentoring session until the product was done. Then on 17 Oct the winner announced, we got 2nd place!</p>\n<p>Full read and some development process (in Indonesian) on my twitter</p>\n<p>Source code : <a href=\"https://https://github.com/codingki/TikTeng\">https://github.com/codingki/TikTeng</a></p>\n",
+          "image": {"url":"https://www.datocms-assets.com/35386/1611984327-nur-fikrimaradota-1.jpg"}
+        },
+        {
+          "title": "Welcome to my site!",
+          "id": "18445790",
+          "excerpt": "Welcome to my site everyone, in this site i will be posting some of my works and ill be write some posts here.",
+          "categories": "Hello",
+          "date": "2020-10-07",
+          "slug": "welcome-to-my-site",
+          "content": "<p>Welcome to my site everyone, in this site i will be posting some of my works and i'll be write some posts here. Enjoy!</p>\n",
+          "image": null
+        },
+        {
+          "title": "Technology I used to build this site (2020/10/07)",
+          "id": "18445792",
+          "excerpt": "My experience of building site with Expo + Next",
+          "categories": "Tech stack",
+          "date": "2020-10-07",
+          "slug": "technology-i-used-to-build-this-site-2020-10-07",
+          "content": "<p>First of all I am a React native Enthusiast and I love Expo, so I decided to build my personal website with React native and Expo. I really want to try Next.js, and then I know Next.js can be combined with Expo.</p>\n<p>I have been coding too much with React Native and I'm forgetting html and css haha, becasue of that I decided to build this with those technology.</p>\n<p>My experience of building this with Expo + Next is very smooth, confused a little with the navigation but I managed to worked it out.</p>\n",
+          "image": null
+        }
+      ]
+    }
+  }
+}
